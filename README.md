@@ -16,5 +16,5 @@ Hi there, I'm Ashcon - Currently an undergraduate student studying Computer Scie
 
 ## Social media
 * [LinkedIn](https://www.linkedin.com/in/ashcon-mohseninia-a5051a142/)
-* [Youtube](https://www.youtube.com/channel/UCUPydCIWDqpkw9RLdc8r6kQ)
+* [Youtube](https://www.youtube.com/c/rndash99)
 * [Twitter](https://twitter.com/rndashm/)
