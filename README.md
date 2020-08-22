@@ -1,16 +1,20 @@
-### Hi there 👋
+# Ashcon Mohseninia @rnd-ash
 
-<!--
-**rnd-ash/rnd-ash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Ashcon - Currently an undergraduate student studying Computer Science at the University of Reading, UK
 
-Here are some ideas to get you started:
+## Coding languages
+* Kotlin
+* Rust
+* C / C++
+* Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Major Projects
+* [Razer-laptop-Control](https://github.com/rnd-ash/razer-laptop-control) - CLI utility and DKMS Driver for Razer notebooks to enable gaming mode and fan control under Linux
+* [MBUX-Port](https://github.com/rnd-ash/mbux-port) - An attempt to create a custom head unit application for my old 2006 Mercedes C class, based on the 2021 S class UI (MBUX), to give it more functionality - This involved reverse engineering the entire car's canbus systems. It is part of my running series on Youtube on how to create a custom headunit.
+* [m2-macchina-passthru](https://github.com/rnd-ash/m2-utd-passthru) - Creating a J2534 Passthru diagnostic API for Macchina's M2 under the dash ODB2 adapter
+
+
+## Social media
+* [LinkedIn](https://www.linkedin.com/in/ashcon-mohseninia-a5051a142/)
+* [Youtube](https://www.youtube.com/channel/UCUPydCIWDqpkw9RLdc8r6kQ)
+* [Twitter](https://twitter.com/rndashm/)
