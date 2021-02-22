@@ -17,9 +17,7 @@ Undergraduate student at the University of Reading, UK.
 * Java
 
 ## Talks / Presentations
-TBA
-
-### 18/02/2021 - [OSSG - Open source in automotive - OpenVehicleDiag](https://youtu.be/C_Su0XGG_Ds)
+* 18/02/2021 - [OSSG - Open source in automotive - OpenVehicleDiag](https://youtu.be/C_Su0XGG_Ds)
 
 ## Major Projects
 * [OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag) - Thesis project for University (Has grown into a lot more since). Open source and cross platform car diagnostics application that can be used with any hardware that supports J234 Passthru API.
