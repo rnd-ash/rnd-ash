@@ -4,6 +4,7 @@ Undergraduate student at the University of Reading, UK.
 ## Social media
 * [LinkedIn](https://www.linkedin.com/in/ashcon-mohseninia-a5051a142/)
 * [Youtube](https://www.youtube.com/c/rndash99)
+* [Odysee](https://odysee.com/@rand_ash:58)
 * [Twitter](https://twitter.com/rndashm/)
 * [Patreon](https://www.patreon.com/rand_ash)
 
