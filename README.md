@@ -1,6 +1,8 @@
 # Ashcon Mohseninia @rnd-ash
 Automotive software developer at [ECU.de](https://ecu.de/)
 
+Creating custom ECU firmware from scratch for open-source MCUs and open source vehicle diagnostic libraries!
+
 ## Social media
 * [LinkedIn](https://www.linkedin.com/in/ashcon-mohseninia-a5051a142/)
 * [Youtube](https://www.youtube.com/c/RANDASH)
@@ -9,9 +11,9 @@ Automotive software developer at [ECU.de](https://ecu.de/)
 * [Patreon](https://www.patreon.com/rand_ash)
 
 ## Coding languages
-* Kotlin
 * Rust
 * C / C++
+* Kotlin
 * Java
 
 ## Talks / Presentations
